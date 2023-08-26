@@ -1,17 +1,37 @@
-### 👋 Hola! Mi nombre es Carla Yamila Colom 
+                          👋───────────────────── ⚡️ Bienvenidos a mi perfil! ⚡️ ─────────────────────
 
-Soy una apasionada Full Stack Developer en constante búsqueda de conocimiento y crecimiento profesional. Mi pasión por la programación comenzó desde hace unos años, y desde entonces he invertido tiempo y esfuerzo en aprender y dominar una amplia gama de tecnologías y lenguajes de programación.
+<div id='header' align='center'>
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FA8072&width=650&lines=Carla+Colom+Full+Stack+Developer" alt="Typing SVG" />
+    </a>
+  </h1>
+</div>
 
-Mi enfoque se centra en el desarrollo web, y he desarrollado habilidades técnicas como : JavaScript || css || html || React - Redux || Vite || NodeJs || Express || Sequelize || PostgreSql. Esto me permitió realizar algunos proyectos donde puse a prueba todos mis conocimientos.
+🌱 Siempre en busca de nuevos desafíos y aprendizaje.
 
-Participé como Henry Hero, en el Bootcamp SoyHenry enseñando y guiando a los nuevos estudiantes resolviendo sus preguntas y dudas sobre las herramientas que se utilizan en ésta área de la tecnología 
+💬 Participé como Henry Hero, en el Bootcamp SoyHenry enseñando y guiando a los nuevos estudiantes resolviendo sus preguntas y dudas sobre las herramientas que se utilizan en ésta área de la tecnología.
 
-Soy una persona autodidacta, motivada y perseverante. Mi enfoque principal es aprender de manera continua, mantenerme actualizado con las últimas tendencias y mejorar constantemente mis habilidades. Siempre estoy buscando oportunidades para ampliar mi conocimiento y experimentar con nuevas tecnologías.
+💬 Mi objetivo es unirme a un equipo dinámico y orientado a resultados para aplicar mis conocimientos en un entorno práctico. . 
 
-Además de mi pasión por la programación, tengo habilidades de resolución de problemas, pensamiento analítico y capacidad para trabajar de manera colaborativa. Me gusta enfrentar desafíos complejos y encontrar soluciones eficientes, y disfruto trabajando en equipo y aprendiendo de otros profesionales.
+📫 Encuéntrame en: carlaycolom@gmail.com - <a href="https://www.linkedin.com/in/carla-colom-060466a7/" target="_blank">
+  <img src='https://www.svgrepo.com/show/355096/linkedin.svg' widht='40' height='40' alt='LinkedIn'/>
+</a>
 
-Actualmente, estoy emocionada por unirme a un equipo dinámico y orientado a resultados, donde pueda aplicar mis habilidades y conocimientos en un entorno práctico. Estoy abierto a oportunidades de aprendizaje y desarrollo, y estoy seguro de que mi pasión y dedicación serán activos valiosos para cualquier proyecto.
- No dudes en contactarme!:
-E-mail: carlaycolom@gmail.com
+                             👋───────────────────────────────────────────────────────────────
 
+<div align='left'>
+  <h3>Languages and Tools 🔨:</h3>
+  <img src='https://www.svgrepo.com/show/452228/html-5.svg' widht='40' height='40' title='Html' alt='Html'/>
+  <img src='https://www.svgrepo.com/show/452185/css-3.svg' widht='40' height='40' title='Css' alt='Css'/>
+  <img src='https://www.svgrepo.com/show/353925/javascript.svg' widht='37' height='37' title='JavaScript' alt='JavaScript'/>
+  <img src='https://www.svgrepo.com/show/452092/react.svg' widht='40' height='40' title='React' alt='React'/>
+  <img src='https://www.svgrepo.com/show/354274/redux.svg' widht='40' height='40' title='Redux' alt='Redux'/>
+  <img src='https://www.svgrepo.com/show/374118/tailwind.svg' widht='37' height='37' title='Tailwind' alt='Tailwind'/>
+  <img src='https://www.svgrepo.com/show/303360/nodejs-logo.svg' widht='40' height='40' title='Node' alt='Node'/>
+  <img src='https://www.mementotech.in/assets/images/icons/express.png' widht='40' height='40' title='Express' alt='Express'/>
+  <img src='https://www.svgrepo.com/show/354333/sequelize.svg' widht='40' height='40' title='Sequelize' alt='Sequelize'/>
+  <img src='https://www.svgrepo.com/show/452210/git.svg' widht='40' height='40' title='Git' alt='Git'/>
+  
+</div>
 
